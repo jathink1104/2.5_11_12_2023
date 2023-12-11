@@ -1,0 +1,15 @@
+H:\KHÁC\11_12_2023\11_12_2023\bin\Debug\net7.0\11_12_2023.exe
+H:\KHÁC\11_12_2023\11_12_2023\bin\Debug\net7.0\11_12_2023.deps.json
+H:\KHÁC\11_12_2023\11_12_2023\bin\Debug\net7.0\11_12_2023.runtimeconfig.json
+H:\KHÁC\11_12_2023\11_12_2023\bin\Debug\net7.0\11_12_2023.dll
+H:\KHÁC\11_12_2023\11_12_2023\bin\Debug\net7.0\11_12_2023.pdb
+H:\KHÁC\11_12_2023\11_12_2023\obj\Debug\net7.0\11_12_2023.csproj.AssemblyReference.cache
+H:\KHÁC\11_12_2023\11_12_2023\obj\Debug\net7.0\11_12_2023.GeneratedMSBuildEditorConfig.editorconfig
+H:\KHÁC\11_12_2023\11_12_2023\obj\Debug\net7.0\11_12_2023.AssemblyInfoInputs.cache
+H:\KHÁC\11_12_2023\11_12_2023\obj\Debug\net7.0\11_12_2023.AssemblyInfo.cs
+H:\KHÁC\11_12_2023\11_12_2023\obj\Debug\net7.0\11_12_2023.csproj.CoreCompileInputs.cache
+H:\KHÁC\11_12_2023\11_12_2023\obj\Debug\net7.0\11_12_2023.dll
+H:\KHÁC\11_12_2023\11_12_2023\obj\Debug\net7.0\refint\11_12_2023.dll
+H:\KHÁC\11_12_2023\11_12_2023\obj\Debug\net7.0\11_12_2023.pdb
+H:\KHÁC\11_12_2023\11_12_2023\obj\Debug\net7.0\11_12_2023.genruntimeconfig.cache
+H:\KHÁC\11_12_2023\11_12_2023\obj\Debug\net7.0\ref\11_12_2023.dll
